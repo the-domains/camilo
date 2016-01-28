@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[camilo]]></title>
         <description><![CDATA[camilo]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/camilo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jan 2016 18:46:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Jan 2016 19:14:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/camilo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>If people would only be happy with what they have...</p>]]></description>
-            <link>undefined8a96d92a-311d-4770-b409-4e6e85712b58/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5fbf5ce-307b-4c89-95a0-d3ea85916307.jpg">]]></description>
+            <link>https://thegrid.ai/camilo/8a96d92a-311d-4770-b409-4e6e85712b58/index.html</link>
             <guid isPermaLink="false">8a96d92a-311d-4770-b409-4e6e85712b58</guid>
-            <pubDate>Thu, 28 Jan 2016 18:46:36 GMT</pubDate>
+            <pubDate>Thu, 28 Jan 2016 19:14:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
