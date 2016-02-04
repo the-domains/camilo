@@ -1,4 +1,4 @@
-name: camilo
+name: camilo jimenez
 favicon: null
 layout_spectrum: 0.31509
 typography_spectrum: 1
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#ff503f'
-    - '#272d33'
-    - '#aacc4e'
-    - '#6e6e6e'
-  brandStrength: 0.942412240896374
+    - '#fdfffe'
+    - '#95749a'
+    - '#010008'
+    - '#abaad8'
+    - '#68e0f9'
+  brandStrength: 0.25
   lightness: 0.5477384314872324
-  saturation: 0.75
+  saturation: 0.5625
   rhythmicContrast: 0.1487451116554439
 purpose: []
